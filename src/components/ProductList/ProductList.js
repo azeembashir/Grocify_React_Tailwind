@@ -13,7 +13,7 @@ import ChickenBreast from "../../assets/chicken-breast.png";
 import Kale from "../../assets/kale.png";
 import Cheese from "../../assets/cheese.png";
 import condenseMilk from "../../assets/condensed-milk.png";
-import Salmon from "../../assets/Salmon.png";
+import Salmon from "../../assets/salmon.png";
 import Banana from "../../assets/banana.png";
 import Milk from "../../assets/milk.png";
 import Pineapple from "../../assets/pineapple.png";
