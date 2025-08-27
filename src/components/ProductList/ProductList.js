@@ -10,7 +10,7 @@ import Broccoli from "../../assets/broccoli.png";
 import Yogurt from "../../assets/yogurt.png";
 import Beef from "../../assets/beef.png";
 import ChickenBreast from "../../assets/chicken-breast.png";
-import Kale from "../../assets/Kale.png";
+import Kale from "../../assets/kale.png";
 import Cheese from "../../assets/cheese.png";
 import condenseMilk from "../../assets/condensed-milk.png";
 import Salmon from "../../assets/Salmon.png";
